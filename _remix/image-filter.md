@@ -18,3 +18,10 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="theodorez-107" data-slug-hash="GRqqLdm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="GRqqLdm">
+  <span>See the Pen <a href="https://codepen.io/theodorez-107/pen/GRqqLdm">
+  GRqqLdm</a> by TheodoreZ-107 (<a href="https://codepen.io/theodorez-107">@theodorez-107</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>

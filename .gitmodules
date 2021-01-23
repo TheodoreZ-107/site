@@ -25,3 +25,6 @@
 [submodule "gallery"]
 	path = gallery
 	url = https://github.com/TheodoreZ-107/gallery.git
+[submodule "images_"]
+	path = images_
+	url = https://github.com/TheodoreZ-107/images_.git

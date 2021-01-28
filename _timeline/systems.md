@@ -26,5 +26,8 @@ events:
   - digital-desk
   - windows95
   - lifestreams
+  - first_Microsoft_mouse
+  - zenbook
+  
 ---
 
